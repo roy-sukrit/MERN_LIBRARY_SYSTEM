@@ -1,0 +1,32 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-ensure-login": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "convert-excel-to-json": "^1.7.0",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "fast-csv": "^4.3.6",
+    "moments": "0.0.2",
+    "mongoose": "^5.11.11",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local-mongoose": "^6.1.0",
+    "yarn": "^1.22.10"
+  }
+}
